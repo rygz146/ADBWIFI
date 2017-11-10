@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ADB WIFI</string>
+    <string name="common_cmd">常用ADB命令</string>
+    <string name="info">关于</string>
 </resources>

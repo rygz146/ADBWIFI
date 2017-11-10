@@ -26,4 +26,7 @@ dependencies {
     compile 'com.github.clans:fab:1.6.4'
     compile 'com.jakewharton:butterknife:8.8.1'
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
+    compile 'com.github.GrenderG:Toasty:1.2.5'
+    compile 'com.github.zhaokaiqiang.klog:library:1.6.0'
+    compile 'com.github.iammert:MaterialIntroView:1.6.0'
 }
